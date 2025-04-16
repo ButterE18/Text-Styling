@@ -1,0 +1,44 @@
+body{
+/* Background color for the full website */
+background-color: rgba(0, 140, 255, 0.651);
+/* Font color was fine as default, but included if I wanted to change colors */
+color: black;
+/* Font family*/
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1{
+/* Alligns the Title of the site to the center */
+text-align: center;
+/* gives some space from the top of the site to the actual text to make it look nicer */
+padding-top: 10px;
+/* Gives a pop of text change to the Title of the site */
+font-style: italic;
+/* Ensures that the title is bigger than all other text */
+font-size:xx-large ;
+}
+
+h2{
+/* Some spacing to make it look nicer */
+padding-bottom: 10px;
+padding: 10px;
+/* Gives the Header title a bit more diverse sizing from the informative text */
+font-size: x-large;
+
+}
+
+h3{
+/* Gives the Section titles a pop of color */
+color:brown;
+font-size: x-large;
+/* Spacing to break up the text */
+padding: 10px;
+}
+
+p{
+/* Makes the text look different from the titles */
+font-family:cursive;
+/* Indents from the left side to make it less crowded */
+padding-left: 5px;
+}
